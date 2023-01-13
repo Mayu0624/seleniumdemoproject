@@ -1,0 +1,5 @@
+16:27:35.026 [TestNG-tests-4] DEBUG Tests.LoginTest - Password got entered
+16:27:35.498 [TestNG-tests-4] DEBUG Tests.LoginTest - Clicked on Login Button
+16:27:45.580 [TestNG-tests-4] DEBUG Tests.LoginTest - User didn't log in
+16:27:45.580 [TestNG-tests-4] INFO  Tests.LoginTest - Login Test got passed
+16:28:01.854 [TestNG-tests-4] DEBUG Tests.LoginTest - Browser got closed
